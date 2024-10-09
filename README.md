@@ -3,14 +3,14 @@ This is our K-Explore Web Designing Group Project for [KIIT University]([url](ht
 
 > [!NOTE]
 > This repository current mainly aims to focus on the backend part.
-> For the frontend part, refer to: [Link]([url](https://github.com/naitik7475/KiitMyShow))
+> For the frontend part, refer to: [Link](https://github.com/naitik7475/KiitMyShow)
 
 ## Tech Stack
-- [NodeJS]([url](https://nodejs.org/en)): Backbone of backend
-- Fly.io: Hosting & deployment
-- [ImageKit]([url](https://imagekit.io/)): Image CDN
-- [Auth0]([url](https://auth0.com/)): For Authentication
-- [MailGun]([url](https://www.mailgun.com/)): To send mail
+- [NodeJS](https://nodejs.org/en): Backbone of backend
+- [Fly.io](https://fly.io/): Hosting & deployment
+- [ImageKit](https://imagekit.io/): Image CDN
+- [Auth0](https://auth0.com/): For Authentication
+- [MailGun](https://www.mailgun.com/): To send mail
 - <details>
   <summary>Azure Serverless SQL: Since its free & usable</summary>
   <img src="https://github.com/user-attachments/assets/48868375-e814-4ce2-b23f-c0a144eb5347" alt="Azure SQL">
