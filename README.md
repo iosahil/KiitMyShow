@@ -22,4 +22,5 @@ This is our K-Explore Web Designing Group Project for [KIIT University]([url](ht
 - _Customer_: Able to search, sort, filter, check movies & theatre based on their location. They would be able to read their transactons and download or cancel their tickets.
 - Transaction Control of all seat booking must be considered to prevent conflicts.
 
-  
+## Extras
+- Using [Unofficial IMdB API to get Movies records](https://imdb.iamidiotareyoutoo.com/docs/index.html#tag/default/GET/search)
